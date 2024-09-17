@@ -20,8 +20,8 @@ Affiliate Locator is a Laravel-based application that processes a list of affili
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/affiliate-locator.git
-   cd affiliate-locator
+   git clone https://github.com/leparadis/laravel-test.git
+   cd laravel-test
    ```
 
 2. Copy the `.env.example` file to `.env`:
